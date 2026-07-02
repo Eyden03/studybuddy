@@ -1,5 +1,9 @@
 <?php
 // Expects $active to be set by the including page, e.g. $active = 'home';
+if (!function_exists('e')) {
+    require_once __DIR__ . '/helpers.php';
+}
+
 if (!isset($active)) { $active = ''; }
 function navclass($name, $active) {
     return 'sb-link ' . ($name === $active ? 'active' : '');
