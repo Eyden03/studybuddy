@@ -140,7 +140,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="grid md:grid-cols-2 gap-5">
           <div class="field md:col-span-2">
             <label for="location">Location</label>
-            <input type="text" id="location" name="location" value="<?= e($old['location']) ?>" placeholder="e.g. Main Library, Room 204 or Online - Google Meet" required>
+            <input type="text" id="location" name="location" value="<?= e($old['location']) ?>" placeholder="e.g. Cafes, School Campus, Room 204, Google Meet" required>
           </div>
           <div class="field">
             <label for="session_date">Date</label>
