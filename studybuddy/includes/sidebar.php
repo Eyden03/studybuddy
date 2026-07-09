@@ -9,7 +9,7 @@ function navclass($name, $active) {
     return 'sb-link ' . ($name === $active ? 'active' : '');
 }
 ?>
-<aside class="sb-nav w-[240px] shrink-0 min-h-screen flex flex-col justify-between py-6 px-4">
+<aside class="sb-nav w-[240px] shrink-0 h-screen sticky top-0 flex flex-col py-6 px-4">
   <div>
     <a href="home.php" class="flex items-center gap-2 px-2 mb-9">
       <span class="w-8 h-8 rounded-lg flex items-center justify-center" style="background:var(--lime)">
@@ -38,7 +38,7 @@ function navclass($name, $active) {
     </nav>
   </div>
 
-  <div class="flex flex-col gap-1">
+  <div class="mt-auto flex flex-col gap-1">
     <div class="rounded-2xl p-4 mb-2" style="background:var(--ink-soft)">
       <p class="text-white text-sm font-semibold mb-1">Find your next study buddy</p>
       <p class="text-[#B7B5C2] text-xs leading-relaxed mb-3">Browse open sessions happening on campus this week.</p>
