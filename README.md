@@ -20,8 +20,8 @@ StudyBuddy is a web application that allows students to create, manage, and join
 
 | Homepage | Login | My Sessions |
 |----------|-------|-------------|
-| <img width="1902" height="867" alt="image" src="https://github.com/user-attachments/assets/c41e9614-119c-4dc1-b12f-02d3a9c9ae67" />
- | *(Add Screenshot)* | *(Add Screenshot)* |
+| <img width="1902" height="867" alt="image" src="https://github.com/user-attachments/assets/c41e9614-119c-4dc1-b12f-02d3a9c9ae67" />| <img width="1915" height="863" alt="image" src="https://github.com/user-attachments/assets/c976fbaf-8adc-49f2-818a-a7abafff4057" />
+
 
 ---
 
