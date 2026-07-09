@@ -115,7 +115,8 @@ $host = [
           <p class="text-xs font-semibold uppercase tracking-widest text-[var(--muted)] mb-3">Participants (<?= e(spots_label($session)) ?>)</p>
           <div class="flex items-center gap-3 flex-wrap">
             <?php foreach ($participants as $participant): ?>
-              <a href="#" title="<?= e(full_name($participant)) ?>">
+              <a href="profile.php?id=<?= (int)$participant['id'] ?>"
+                title="<?= e(full_name($participant)) ?>">
                 <?= avatar_html($participant, 'w-10 h-10 text-sm') ?>
               </a>
             <?php endforeach; ?>
