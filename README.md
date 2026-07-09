@@ -36,6 +36,16 @@ htdocs/finalproject/
 │       └── style.css
 │
 ├── includes/
+│   ├── auth.php
+│   ├── config.php
+│   ├── db.php
+│   ├── helpers.php
+│   ├── session_model.php
+│   ├── sidebar.php
+│   └── topbar.php
+│
+├── uploads/
+│   └── avatars/
 │
 ├── about.php
 ├── create_session.php
@@ -50,6 +60,7 @@ htdocs/finalproject/
 ├── register.php
 ├── session_details.php
 └── README.md
+```
 ```
 
 ---
