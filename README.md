@@ -91,15 +91,23 @@ http://localhost/finalproject
 
 ## ⚙️ Configuration
 
-### Database Configuration
+### Database Credentials
 
 Open **`includes/config.php`** and update the database credentials if needed.
 
 ```php
-$host = "localhost";
-$username = "root";
-$password = "";
-$database = "studybuddy";
+define('DB_HOST', '127.0.0.1');
+define('DB_NAME', 'studybuddy');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+```
+
+### Upload Directory
+
+User profile images are stored in:
+
+```text
+uploads/avatars/
 ```
 
 ### Database Connection
@@ -109,6 +117,13 @@ The database connection is handled in:
 ```text
 includes/db.php
 ```
+
+On the first run, the application will automatically:
+
+- Create the **studybuddy** database if it does not exist.
+- Create the required tables (`users`, `study_sessions`, and `session_participants`).
+- Insert demo users and study session data. :contentReference[oaicite:0]{index=0}
+
 ---
 
 ### Color Scheme
