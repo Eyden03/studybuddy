@@ -96,7 +96,7 @@ http://localhost/finalproject
 Open **`includes/config.php`** and update the database credentials if needed.
 
 ```php
-define('DB_HOST', '127.0.0.1');
+define('DB_HOST', 'localhost');
 define('DB_NAME', 'studybuddy');
 define('DB_USER', 'root');
 define('DB_PASS', '');
