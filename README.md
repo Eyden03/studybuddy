@@ -144,34 +144,24 @@ The application uses the following color palette:
 }
 ```
 
----
 
-Make sure the database name matches the one you created in **phpMyAdmin**.
 
 ---
 
----
+## 🛠 Tech Stack
 
-## 🛠 Technologies Used
-
-- PHP
-- MySQL
-- HTML
-- CSS
-- XAMPP
-
----
-
-## 👨‍💻 Developers
-
-- Aidhen Pocsidio
-- Vince Elpedez
-- Kate Cam
-- Kesha Delo Santos
-- John Paul Santos
+| Layer | Technology |
+|--------|------------|
+| Backend | PHP 8.x |
+| Database | MySQL |
+| Server | Apache via XAMPP |
+| Frontend | HTML5 + CSS3 |
+| Styling | CSS3 |
+| Fonts | Inter (Google Fonts) |
 
 ---
+
 
 ## 📄 License
 
-This project was developed for educational purposes.
+This project was developed for educational purposes for our final proect.
