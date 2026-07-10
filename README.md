@@ -109,22 +109,27 @@ The database connection is handled in:
 ```text
 includes/db.php
 ```
-###  Color Scheme
+---
+
+### 🎨 Color Scheme
 
 The application uses the following color palette:
 
 ```css
 :root {
-    --primary: #2563EB;      /* Blue */
-    --secondary: #3B82F6;    /* Light Blue */
-    --success: #22C55E;      /* Green */
-    --warning: #F59E0B;      /* Orange */
-    --danger: #EF4444;       /* Red */
-    --background: #F8FAFC;   /* Light Gray */
-    --surface: #FFFFFF;      /* White */
-    --text: #1F2937;         /* Dark Gray */
+    --primary: #D7FF4A;      /* Lime Green (Buttons & Active Menu) */
+    --secondary: #8B7CF6;    /* Purple (Profile Avatar) */
+    --accent: #FF6B57;       /* Coral (Session Labels) */
+    --background: #F8F5EE;   /* Off-White Background */
+    --surface: #FFFFFF;      /* Cards */
+    --sidebar: #17171F;      /* Dark Sidebar */
+    --text: #1E1E2F;         /* Primary Text */
+    --text-light: #7A7A8C;   /* Secondary Text */
+    --border: #E5E5E5;       /* Card Borders */
 }
 ```
+
+---
 
 Make sure the database name matches the one you created in **phpMyAdmin**.
 
