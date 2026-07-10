@@ -111,7 +111,7 @@ includes/db.php
 ```
 ---
 
-### 🎨 Color Scheme
+### Color Scheme
 
 The application uses the following color palette:
 
