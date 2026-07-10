@@ -113,6 +113,26 @@ includes/db.php
 Make sure the database name matches the one you created in **phpMyAdmin**.
 
 ---
+---
+
+## 🎨 Color Scheme
+
+The application uses the following color palette:
+
+```css
+:root {
+    --primary: #2563EB;      /* Blue */
+    --secondary: #3B82F6;    /* Light Blue */
+    --success: #22C55E;      /* Green */
+    --warning: #F59E0B;      /* Orange */
+    --danger: #EF4444;       /* Red */
+    --background: #F8FAFC;   /* Light Gray */
+    --surface: #FFFFFF;      /* White */
+    --text: #1F2937;         /* Dark Gray */
+}
+```
+
+---
 
 ## 🛠 Technologies Used
 
