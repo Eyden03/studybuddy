@@ -16,15 +16,12 @@ StudyBuddy is a web application that allows students to create, manage, and join
 
 ---
 
-## 📷 Screenshots
-
-| **Homepage** | **Login** | **My Sessions** |
-|--------------|-----------|-----------------|
-| <img width="1902" height="867" alt="Homepage" src="https://github.com/user-attachments/assets/c41e9614-119c-4dc1-b12f-02d3a9c9ae67" /> | <img width="1915" height="863" alt="Login" src="https://github.com/user-attachments/assets/c976fbaf-8adc-49f2-818a-a7abafff4057" /> | <img width="1918" height="868" alt="My Sessions" src="https://github.com/user-attachments/assets/8a93ecb7-2585-4228-a370-98aed5040c3f" /> |
-
-| **Create Session** | **Register** | **Profile** |
-|--------------------|--------------|-------------|
-| <img width="698" height="856" alt="Create Session" src="https://github.com/user-attachments/assets/2565825b-a137-4292-9e7d-752a8100f97c" /> | ** | ** |
+## 📷 Screenshots |
+Homepage | Login | My Sessions | 
+|----------|-------|-------------| 
+| <img width="1902" height="867" alt="image" src="https://github.com/user-attachments/assets/c41e9614-119c-4dc1-b12f-02d3a9c9ae67" />| <img width="1915" height="863" alt="image" src="https://github.com/user-attachments/assets/c976fbaf-8adc-49f2-818a-a7abafff4057" /> | <img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/8a93ecb7-2585-4228-a370-98aed5040c3f" /> 
+| **Create Session** | **Register** | **Profile** | 
+|<img width="698" height="856" alt="image" src="https://github.com/user-attachments/assets/2565825b-a137-4292-9e7d-752a8100f97c" />|--------------|-------------|
 
 ---
 
