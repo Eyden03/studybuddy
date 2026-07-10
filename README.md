@@ -21,7 +21,7 @@ Homepage | Login | My Sessions |
 |----------|-------|-------------| 
 | <img width="1902" height="867" alt="image" src="https://github.com/user-attachments/assets/c41e9614-119c-4dc1-b12f-02d3a9c9ae67" />| <img width="1915" height="863" alt="image" src="https://github.com/user-attachments/assets/c976fbaf-8adc-49f2-818a-a7abafff4057" /> | <img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/8a93ecb7-2585-4228-a370-98aed5040c3f" /> 
 | **Create Session** | **Register** | **Profile** | 
-|<img width="698" height="856" alt="image" src="https://github.com/user-attachments/assets/2565825b-a137-4292-9e7d-752a8100f97c" />|--------------|-------------|
+|<img width="698" height="856" alt="image" src="https://github.com/user-attachments/assets/2565825b-a137-4292-9e7d-752a8100f97c" />|<img width="527" height="695" alt="image" src="https://github.com/user-attachments/assets/c4e17279-852b-445d-8bac-fb23385a99f4" />|-------------|
 
 ---
 
