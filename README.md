@@ -63,28 +63,48 @@ htdocs/finalproject/
 
 ---
 
-## 🚀 Installation
+## 🚀 Setup
 
-1. Clone the repository.
+### Prerequisites
+
+- XAMPP with Apache and MySQL running
+- A web browser
+### Steps
+#### 1. Clone or download the repository
 
 ```bash
 git clone https://github.com/yourusername/studybuddy.git
 ```
 
-2. Copy the project to:
+#### 2. Move the project to `htdocs`
+
+Copy the **studybuddy** folder into:
 
 ```text
-C:\xampp\htdocs\finalproject
+C:\xampp\htdocs\finalproject\
 ```
 
-3. Start **Apache** and **MySQL** in XAMPP.
+#### 3. Set up the database
 
-4. Create a database named **studybuddy** in **phpMyAdmin** and import the SQL file.
+- Open **http://localhost/phpmyadmin**
+- Create a database named **studybuddy**
+- Import your SQL file (if applicable)
 
-5. Open your browser:
+#### 4. Configure the database
+
+Open **`includes/config.php`** and verify the database credentials:
+
+```php
+define('DB_HOST', '127.0.0.1');
+define('DB_NAME', 'studybuddy');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+```
+
+#### 5. Open the website
 
 ```text
-http://localhost/finalproject
+http://localhost/finalproject/
 ```
 
 ---
