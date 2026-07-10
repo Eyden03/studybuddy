@@ -130,13 +130,6 @@ User profile images are stored in:
 uploads/avatars/
 ```
 
-### Database Connection
-
-The database connection is handled in:
-
-```text
-includes/db.php
-```
 
 On the first run, the application will automatically:
 
@@ -163,7 +156,6 @@ The application uses the following color palette:
     --border: #E5E5E5;       /* Card Borders */
 }
 ```
-
 
 
 ---
