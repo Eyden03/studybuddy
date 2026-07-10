@@ -109,13 +109,7 @@ The database connection is handled in:
 ```text
 includes/db.php
 ```
-
-Make sure the database name matches the one you created in **phpMyAdmin**.
-
----
----
-
-## 🎨 Color Scheme
+### 🎨 Color Scheme
 
 The application uses the following color palette:
 
@@ -131,6 +125,10 @@ The application uses the following color palette:
     --text: #1F2937;         /* Dark Gray */
 }
 ```
+
+Make sure the database name matches the one you created in **phpMyAdmin**.
+
+---
 
 ---
 
