@@ -6,13 +6,13 @@ StudyBuddy is a web application that allows students to create, manage, and join
 
 ## ✨ Features
 
-- 👤 User Registration and Login
-- 👨‍🎓 User Profile
-- 📅 Create Study Sessions
-- ✏️ Edit Study Sessions
-- 📚 View Session Details
-- 📂 My Sessions
-- 🚪 Logout
+-  User Registration and Login
+-  User Profile
+-  Create Study Sessions
+-  Edit Study Sessions
+-  View Session Details
+-  My Sessions
+-  Logout
 
 ---
 
