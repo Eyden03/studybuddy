@@ -122,23 +122,6 @@ define('DB_USER', 'root');
 define('DB_PASS', '');
 ```
 
-### Upload Directory
-
-User profile images are stored in:
-
-```text
-uploads/avatars/
-```
-
-
-On the first run, the application will automatically:
-
-- Create the **studybuddy** database if it does not exist.
-- Create the required tables (`users`, `study_sessions`, and `session_participants`).
-- Insert demo users and study session data. :contentReference[oaicite:0]{index=0}
-
----
-
 ### Color Scheme
 
 The application uses the following color palette:
